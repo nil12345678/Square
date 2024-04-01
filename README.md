@@ -1,4 +1,4 @@
-# quiz_app
+# Squares
 
 A new Flutter project.
 
